@@ -1,0 +1,4 @@
+recordcount=100000
+workload=site.ycsb.workloads.PureInsertWorkload
+
+workloadpath=/home/xuhao/runw
